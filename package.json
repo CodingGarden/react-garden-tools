@@ -1,10 +1,10 @@
 {
   "name": "react-garden-tools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React tools for your code garden.",
   "author": "w3cj",
   "license": "MIT",
-  "repository": "w3cj/react-garden-tools",
+  "repository": "CodingGarden/react-garden-tools",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
