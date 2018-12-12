@@ -1,22 +1,6 @@
-import React, { Component } from 'react'
-import PropTypes from 'prop-types'
-
-import styles from './styles.css'
-
-export default class ExampleComponent extends Component {
-  static propTypes = {
-    text: PropTypes.string
-  }
-
-  render() {
-    const {
-      text
-    } = this.props
-
-    return (
-      <div className={styles.test}>
-        Example Component: {text}
-      </div>
-    )
-  }
-}
+export If from './If'
+export HelloWorld from './HelloWorld'
+export For from './For'
+export Emoji from './Emoji'
+export Fetch from './Fetch'
+export State from './State'
